@@ -1,2 +1,3 @@
 hi tis is modified in feature branch
 how are you
+now i modified in feature
