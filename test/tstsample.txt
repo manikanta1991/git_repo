@@ -1,2 +1,4 @@
 hi tis is modified in feature branch
 now i modified in feature
+how are you
+added in master
